@@ -1,0 +1,23 @@
+.background img{
+    width: 100%;
+    height: auto;
+}
+
+.button img{
+    width: 100px;
+    position: absolute;
+
+}
+
+.background img{
+    position: relative;
+}
+
+.next{
+    top:150px;
+    right:40px;
+}
+.forward{
+    top: 150px;
+    left: 40px;
+}
