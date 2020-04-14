@@ -85,12 +85,7 @@ html {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
-  .fb-login-button{
-    top: 80%;
-    left: 0;
-    right: 0;
-
-  }
+  
    
   @keyframes animStar {
     from {
