@@ -1,0 +1,10 @@
+{
+  "name": "virtualbase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gaston-g96/virtualbase.git",
+  "author": "gaston <akihiro.ghf@gmail.com>",
+  "license": "MIT",
+  "start": "node server.js",
+  "static": "static-server -i public/index_test.html -p 3000"
+}
